@@ -1,0 +1,1 @@
+This repo is clone of the google homepage.
